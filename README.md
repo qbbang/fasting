@@ -14,7 +14,7 @@
 
 프로토타입
 
-![proposal](/etc/xd.jpg)
+![proposal](/etc/xd.JPG)
 
 ---
 
