@@ -30,6 +30,14 @@
     
     - API 설계 : 시퀸스, 유저케이스 다이어그램 바탕으로 세션 유지 및 예외 처리에 중점
     
-    - iOS 구현 : Alamofire를 통해 API Server에 단식 설정, 정보 송수신
+    - iOS 구현 
     
+                1. Alamofire를 통해 API Server에 단식 설정, 정보 송수신
+    
+                2. 단식의 시간을 설정하면, 시작/종료 시점에 Local Notification을 설정
                 
+                3. NSFileManager를 통해 cache directory에 단식 정보 JSON 파일을 저장하고 필요에 따라 불러와서 사용함
+                
+#### 적용 : 로그인 시 부가서비스의 활성화
+
+![](/etc/Portfolio_fasting.gif)
