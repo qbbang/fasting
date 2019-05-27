@@ -16,9 +16,9 @@
 
 #### 프로토타입
 
-![proposal](/etc/xd.JPG)
+![](/etc/xd.JPG)
 
 #### API 설계
 
-![proposal](/etc/xd.JPG)
+![](/etc/uml.jpg)
 
