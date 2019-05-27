@@ -6,7 +6,7 @@
 
 #### 기획
 
-![](/etc/proposal.png)
+![proposal](./etc/proposal.png)
 
 
 ```이김 Team```
